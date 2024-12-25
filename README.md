@@ -3,6 +3,9 @@
 ## Project Description
 This project aims to classify book genres by combining cover images with metadata such as titles and descriptions using multimodal neural networks. By training a joint model that combines a Convolutional Neural Network (CNN) for image processing and text embeddings for metadata analysis, the system is able to predict the genre of a book based on both visual and textual features.
 
+This project was developed as the final project for the **Fundamentals of Data Science** course at **Sapienza University**.
+
+
 ## Technologies Used
 - **Python**
 - **TensorFlow** (for neural network modeling)
